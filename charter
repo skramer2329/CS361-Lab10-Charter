@@ -1,12 +1,44 @@
-<TODO: Figure out Name>
+<Group 2: Too fast too furious>
 
 
-Availability for meeting expectations
-Response time to communication expectations
-Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+Availability for meeting expectations:
+  -Expected to show up for daily scrum: Mon/Tues: 10:45pm; Wed-Fri: 10pm. (Goal: min of 5 mins, max of 15 mins)
+  
+Response time to communication expectations:
+  -Within 24 hrs. All communication done on teams.
+  
+Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.):
+  -Meets all acceptance criteria, checked-in, and peer reviewed by at least two other peers.
+  
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
-Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
-if you adopt such a policy during the initial meeting, put it here
-Procedure for handling a member who is not meeting expectations
-must include at least 3 actions before involving the instructor
-Signatures: each member must sign their name by typing their name at the bottom of the document.
+  -Scrum meeting video call on teams on weekdays. 
+  -Days individuals will write documentation :: Bennett: Mon; Ethan: Tues; Michael: Wed; James: Thurs; Sabrina: Fri
+  -One folder for all documentation, one file for each week of documentation.
+  -If person can't make it to a meeting, send message in Teams chat, and write in their own progress in documentations
+
+Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates):
+  [if you adopt such a policy during the initial meeting, put it here]
+  -All changes should be made in your own branch
+  -Whenever you want to commit to main branch, send message asking people to check in teams chat, people check code before scrum meeting, then talk about whether to 
+    commit to main branch during scrum meeting
+  
+Procedure for handling a member who is not meeting expectations:
+  must include at least 3 actions before involving the instructor:
+    -Person who is not making an effort to meet expectations - Consistently skipping meetings:
+      1.] Talk to them about it
+      2.] Enforce certain amount of 3 commits per week
+      3.] Pair Programming
+      
+    -Person making an effort to meet expectations:
+      1.] Talk to them about it 
+      2.] Offer resources 
+      3.] Pair programming - two or more can program together
+      
+      
+Additional (optional):
+  -Add folder that holds resource files - i.e Youtube tutorials, documentations, etc...
+  -When to meet link: https://www.when2meet.com/?11591910-MsE3w
+
+
+Signatures: each member must sign their name by typing their name at the bottom of the document:
+
